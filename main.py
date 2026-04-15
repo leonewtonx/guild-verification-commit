@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-04-15T02:59:56.908Z
-Commit: Resolve timezone issues in date handling
+Timestamp: 2026-04-15T03:00:00.134Z
+Commit: Fix memory leak in event handlers
